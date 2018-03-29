@@ -23,13 +23,13 @@ npm install
 npm run doc
 ```
 
-This will build the documentation and open it in your browser.
+这将构建文档并在浏览器中打开它。
 
-**To update .html files with documentation**
+**使用文档更新.html文件**
 
-Just run `npm run doc` again.
+再执行一次`npm run doc`.
 
-**To run tests**
+**运行测试**
 
 Call:
 
@@ -37,17 +37,17 @@ Call:
 gulp test
 ```
 
-and all `*.spec.js` files will be executed.
+所有的 `*.spec.js` 都会被执行。
 
-**To deploy documentation site**
+**部署文档网站**
 
 ```bash
 npm run deploy
 ```
 
-This requires you to have commit access to your Git remote.
+这需要您对Git远程进行提交访问。
 
-## Contributions
+## 贡献
 
 Fork the repo and make required changes. After that push your changes in branch, which is named according to the changes
 you did. Initiate the PR.
