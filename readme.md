@@ -1,15 +1,15 @@
-## About
+## 关于
 
 [![Build Status](https://travis-ci.org/mgechev/javascript-algorithms.svg?branch=Jakehp-patch-1)](https://travis-ci.org/mgechev/javascript-algorithms)
 
-This repository contains JavaScript implementations of different famous Computer Science algorithms.
+这个存储库包含了不同计算机科学著名算法的JavaScript实现.
 
 API reference with usage examples available
 <a href="https://mgechev.github.io/javascript-algorithms/" target="_blank">here</a>.
 
-## Development
+## 开发
 
-**To install all dev dependencies**
+**安装所有的开发依赖**
 
 Call:
 
@@ -17,7 +17,7 @@ Call:
 npm install
 ```
 
-**To setup repository with documentation**
+**使用文档设置存仓库**
 
 ```bash
 npm run doc
